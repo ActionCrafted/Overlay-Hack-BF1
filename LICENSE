@@ -1,5 +1,7 @@
 Short version for non-lawyers:
 
+Ampyx Team
+
 My Project is dual-licensed under Apache 2.0 and MIT
 terms.
 
@@ -22,14 +24,14 @@ My Project includes packages written by third parties.
 The following third party packages are included, and carry
 their own copyright notices and license terms:
 
-* LLVM. Code for this package is found in src/llvm-project.
+* Ampyx. Code for this package is found in src/ampyx-project.
 
     Copyright (c) 2003-2013 University of Illinois at
     Urbana-Champaign.  All rights reserved.
 
     Developed by:
 
-        Action Team
+        Ampyx Team
 
         University of Illinois at Urbana-Champaign
 
@@ -53,7 +55,7 @@ their own copyright notices and license terms:
           and/or other materials provided with the
           distribution.
 
-        * Neither the names of the LLVM Team, University of
+        * Neither the names of the Ampyx Team, University of
           Illinois at Urbana-Champaign, nor the names of its
           contributors may be used to endorse or promote
           products derived from this Software without
@@ -69,12 +71,12 @@ their own copyright notices and license terms:
     OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
     OTHER DEALINGS WITH THE SOFTWARE.
 
-* Additional libraries included in LLVM carry separate
-  BSD-compatible licenses. See src/llvm-project/llvm/LICENSE.TXT
+* Additional libraries included in Ampyx carry separate
+  BSD-compatible licenses. See src/ampyx-project/ampyx/LICENSE.TXT
   for details.
 
 * compiler-rt, in src/compiler-rt is dual licensed under
-  Action's license and MIT:
+  Ampyx's license and MIT:
 
     Copyright (c) 2009-2014 by the contributors listed in
     CREDITS.TXT
@@ -83,7 +85,7 @@ their own copyright notices and license terms:
 
     Developed by:
 
-        Action Team
+        Ampyx Team
 
         University of Illinois at Urbana-Champaign
 
@@ -107,7 +109,7 @@ their own copyright notices and license terms:
           and/or other materials provided with the
           distribution.
 
-        * Neither the names of the LLVM Team, University of
+        * Neither the names of the Ampyx Team, University of
           Illinois at Urbana-Champaign, nor the names of its
           contributors may be used to endorse or promote
           products derived from this Software without
